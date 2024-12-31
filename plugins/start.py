@@ -11,7 +11,7 @@ from pyrogram.errors import (
 )
 
 # Globals
-ADMINS = [123456789]  # Replace with actual admin IDs
+ADMINS = [6655939309]  # Replace with actual admin IDs
 START_TIME = datetime.utcnow()
 START_TIME_ISO = START_TIME.isoformat()
 
